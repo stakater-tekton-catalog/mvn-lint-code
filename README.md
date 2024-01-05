@@ -1,2 +1,15 @@
-# mvn-lint-code
-A tekton task for mvn-lint-code
+# Stakater Cluster Task for Linting Code with Maven
+
+## Local Development
+
+### Install
+
+```
+tilt up
+```
+
+### Teardown
+
+```
+tilt down
+```
